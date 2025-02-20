@@ -1,0 +1,104 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "background.customImages": [
+        "https://i.pinimg.com/564x/90/29/17/902917365eae366b1bf7b32d92681207.jpg"
+    ],
+    "explorer.confirmDelete": false,
+    "glassit.alpha": 255,
+    "editor.lineHeight": 25,
+    "go.toolsManagement.autoUpdate": true,
+    "code-runner.runInTerminal": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.maxColumn": 100,
+    "vscode-pets.petSize": "large",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.autofetch": true,
+    "terminal.integrated.letterSpacing": 0.5,
+    "intelephense.files.associations": [
+        "*.php",
+        "*.phtml"
+    ],
+    "php.validate.enable": true,
+    "php.suggest.basic": false,
+    "code-runner.saveFileBeforeRun": true,
+    "tabnine.experimentalAutoImports": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.letterSpacing": 0.5,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "phpsab.allowedAutoRulesets": [
+        ".phpcs.xml",
+        ".phpcs.xml.dist",
+        "phpcs.xml",
+        "phpcs.xml.dist",
+        "phpcs.ruleset.xml",
+        "ruleset.xml"
+    ],
+    "phpsab.executablePathCBF": "/home/isophtalic/.config/composer/vendor/bin/phpcbf",
+    "phpsab.executablePathCS": "/home/isophtalic/.config/composer/vendor/bin/phpcs",
+    "redhat.telemetry.enabled": true,
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "cmake.configureOnOpen": true,
+    "debug.onTaskErrors": "debugAnyway",
+    "go.alternateTools": {},
+    "go.delveConfig": {},
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "phase",
+    "git.enableSmartCommit": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "×": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.openRepositoryInParentFolders": "always",
+    "gitlens.graph.minimap.enabled": false,
+    "bitoAI.appearance.fontSize (Match with IDE Font)": false,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "snyk.advanced.cliPath": "C:\\Users\\Admin\\AppData\\Local\\snyk-ls\\snyk-win.exe",
+    "snyk.folderConfigs": null,
+    "editor.fontLigatures": true,
+    "snyk.trustedFolders": [
+        "c:\\Workspace\\TI\\ws-customer",
+        "c:\\Users\\Admin\\Workspace\\Learning\\Vue"
+    ],
+    "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.autoIndent": "advanced",
+    "editor.codeLens": true,
+    "editor.fastScrollSensitivity": 5,
+    "editor.trimAutoWhitespace": true,
+    "editor.language.brackets": null,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "codeium.disableSupercomplete": true,
+    "vue.server.hybridMode": true
+}
